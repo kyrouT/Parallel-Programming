@@ -3,7 +3,7 @@ Find the number of triangles at an Symmetrical Undericted Unweighted graph, and 
 
 The C files were tested with the .mtx files in the folder,which were loaded with the mmio library.
 
-Difference on the running time between the serial and the parallel code, was substant on the biggest Matrix File, "com-Youtube.mtx" containg 1,134,890 nodes.\
+Difference on the running time between the serial and the parallel code, was substant on the biggest Matrix File, "com-Youtube.mtx" containg 1,134,890 nodes and 5,975,248 Non zeros.\
 It can be downloaded , at https://sparse.tamu.edu/SNAP/com-Youtube
 
 The running time for the serial code, averaged at 13sec.
