@@ -1,2 +1,2 @@
 # Parallel-Programming
-# Excerices in branches
+# Exercises in branches
