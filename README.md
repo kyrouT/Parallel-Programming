@@ -1,5 +1,5 @@
 # HomeWork 1
-Find the number of triangles at an Symmetrical Undericted Unweighted graph, and parallalezation with OpenMp and OpenCilk.
+/*Find the number of triangles at an Symmetrical Undericted Unweighted graph, and parallalezation with OpenMp and OpenCilk.
 
 The C files were tested with the .mtx files in the folder,which were loaded with the mmio library.
 
@@ -20,3 +20,4 @@ Running Commands:
 time ./main "com-Youtube.mtx"
 time ./main_mp "com-Youtube.mtx"
 time ./main_cilk "com-Youtube.mtx"
+*/
