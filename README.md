@@ -1,7 +1,7 @@
 # HomeWork 1
-#Find the number of triangles at an Symmetrical Undericted Unweighted graph, and parallalezation with OpenMp and OpenCilk.
+Find the number of triangles at an Symmetrical Undericted Unweighted graph, and parallalezation with OpenMp and OpenCilk.
 
-#The C files were tested with the .mtx files in the folder,which were loaded with the mmio library.
+The C files were tested with the .mtx files in the folder,which were loaded with the mmio library.
 
 Difference on the running time between the serial and the parallel code, was substant on the biggest Matrix File, "com-Youtube.mtx" containg 1,134,890 nodes.
 The running time for the serial code, averaged at 13sec.
