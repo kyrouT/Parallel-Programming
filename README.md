@@ -10,6 +10,8 @@ The running time for the serial code, averaged at 13sec. <br />
 The OpenMP code, at 5.5sec. <br />
 The OpenCilk code, which was the most efficient at 5,2sec. <br />
 
+The OpenMp code, was tested with various combinations of dynamic and static scheduling, with various number of batches, with the better results given at (dynamic,  batch_size=8).
+<br />
 
 Compile Commands:
 
