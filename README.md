@@ -1,3 +1,4 @@
+# Parallel-Programming
 # HomeWork 1
 Find the number of triangles at an Symmetrical Undericted Unweighted graph, and parallalezation with OpenMp and OpenCilk.
 
@@ -24,4 +25,5 @@ Running Commands:
 time ./main "com-Youtube.mtx" <br />
 time ./main_mp "com-Youtube.mtx" <br />
 time ./main_cilk "com-Youtube.mtx" <br />
+
 
